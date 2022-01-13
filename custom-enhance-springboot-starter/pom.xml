@@ -8,13 +8,14 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
     <groupId>com.scorpios</groupId>
-    <artifactId>custom-springboot-starter</artifactId>
+    <artifactId>custom-enhance-springboot-starter</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>custom-springboot-starter</name>
+    <name>custom-enhance-springboot-starter</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
+
 
     <build>
         <plugins>
@@ -22,7 +23,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>com.scorpios.customstarter.CustomSpringbootStarterApplication</mainClass>
+                    <mainClass>com.scorpios.customenhance.CustomEnhanceSpringbootStarterApplication</mainClass>
                 </configuration>
                 <executions>
                     <execution>
@@ -34,5 +35,4 @@
             </plugin>
         </plugins>
     </build>
-
 </project>

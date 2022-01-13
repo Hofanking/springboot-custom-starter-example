@@ -20,6 +20,7 @@
 
     <modules>
         <module>custom-springboot-starter</module>
+        <module>custom-enhance-springboot-starter</module>
     </modules>
 
     <dependencies>

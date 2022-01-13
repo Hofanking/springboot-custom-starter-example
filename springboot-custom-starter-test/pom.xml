@@ -27,9 +27,14 @@
             <scope>test</scope>
         </dependency>
 
+<!--        <dependency>-->
+<!--            <groupId>com.scorpios</groupId>-->
+<!--            <artifactId>custom-springboot-starter</artifactId>-->
+<!--            <version>0.0.1-SNAPSHOT</version>-->
+<!--        </dependency>-->
         <dependency>
             <groupId>com.scorpios</groupId>
-            <artifactId>custom-springboot-starter</artifactId>
+            <artifactId>custom-enhance-springboot-starter</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
